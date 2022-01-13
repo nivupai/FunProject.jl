@@ -11,9 +11,7 @@ julia> order_string("This is a sorted sentence; Who is 1 and two  ")
 " This is a deorst ;ceeennst Who is 1 adn otw  "
 
 ```
-```jldoctest
-julia> order_string("abracadabra")
-```
+
 """
 function order_string(s::AbstractString="Hello world")
 	
