@@ -3,6 +3,9 @@ uuid = "e875e132-56bc-4ec5-9ef9-81435696aec9"
 authors = ["Nivedita Rethnakar et al."]
 version = "0.1.0"
 
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+
 [compat]
 julia = "1.7.1"
 
